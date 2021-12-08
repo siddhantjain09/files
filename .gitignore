@@ -1,0 +1,10 @@
+
+maven-shade-plugin/.settings/org.eclipse.jdt.core.prefs
+maven-shade-plugin/.classpath
+maven-shade-plugin/.project
+maven-shade-plugin/.settings/org.eclipse.core.resources.prefs
+maven-shade-plugin/.settings/org.eclipse.m2e.core.prefs
+maven-shade-plugin/target/classes/META-INF/MANIFEST.MF
+maven-shade-plugin/target/classes/META-INF/maven/com.liferay.examples/maven-shade-plugin-example/pom.properties
+maven-shade-plugin/target/classes/META-INF/maven/com.liferay.examples/maven-shade-plugin-example/pom.xml
+maven-shade-plugin/target/maven-archiver/pom.properties
